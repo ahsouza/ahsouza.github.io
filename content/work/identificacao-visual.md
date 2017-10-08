@@ -1,0 +1,1 @@
+![City In](img/work/identificao-visual/CityIn-AntonSkvortsov.jpg)

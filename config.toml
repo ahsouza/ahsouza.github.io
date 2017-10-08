@@ -1,0 +1,114 @@
+# Site settings
+baseurl = "https://www.ahscode.com.br/"
+languageCode = "en-us"
+title = "AHSCODE - Agência Digital"
+
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Aníbal Henrique de Souza"
+	description = "Your description"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "ahscode.web@gmail.com"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "AHS CODE"
+		shortBio = "Integrando Tecnologias em seu ambiente"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "Sobre nos"
+		bio = "**AHS CODE** Oferece serviços de tecnologia para sua empresa ter uma presença digital notável com pouco investido. Utilizamos estratégias em seu negócio conquiste suas metas por curto tempo com pouco investido."
+
+		[[params.about.skills]]
+			name = "Comunicação Visual"
+			value = 9
+
+		[[params.about.skills]]
+			name = "Organização"
+			value = 8
+
+		[[params.about.skills]]
+			name = "Soluções "
+			value = 10
+
+		[[params.about.skills]]
+			name = "Ensino"
+			value = 9 
+
+		[[params.about.skills]]
+			name = "Planejamento estratégico"
+			value = 8
+
+		[[params.about.skills]]
+			name = "Design Visual"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Controle de Gestão"
+			value = 8
+
+		[[params.about.skills]]
+			name = "Programação"
+			value = 10
+
+	# Contact secion
+	[params.contact]
+		title = "Contato"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "//twitter.com/ahscodeweb"
+
+		[[params.contact.social]]
+			icon = "linkedin"
+			link = "//www.behance.net/travisneilson"
+
+		[[params.contact.social]]
+			icon = "pinterest"
+			link = "//br.pinterest.com/ahscode"
+		
+		[[params.contact.social]]
+			icon = "facebook"
+			link = "//www.facebook.com/ahscode"
+
+	
+	[params.form]
+		title = "Contate-nos"
+		# Form fields
+		name = "Seu nome"
+		email = "Seu email"
+		message = "Envie sua mensagem que logo entraremos em contato"
+		buttonText = "Enviar"
+
+
+	[params.footer]
+		copyright = "Públicado sobre a licença da AHS CODE."

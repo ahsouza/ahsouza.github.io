@@ -1,0 +1,1 @@
+![Crispy Icons](img/work/controle-de-gestao/CrispyIcons-PetrasNargela.jpg)

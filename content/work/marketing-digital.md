@@ -1,0 +1,7 @@
+
+
+
+O marketing digital tem como objetivo principal melhorar a relação da sua empresa e de seus clientes através de ferramentas e métricas relevantes, que indicam o comportamento do público sobre determinada campanha de publicação.
+Dessa forma, além de poder conhecer melhor o cliente, também é possível traçar estratégias muito mais precisas para o público alvo.
+
+![Typo International](img/work/marketing-digital/img-interatividade.jpg)
