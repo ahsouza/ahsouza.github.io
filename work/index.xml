@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on AHSCODE - Agência Digital</title>
-    <link>https://www.ahscode.com.br/work/</link>
+    <link>https://ahsouza.github.io/work/</link>
     <description>Recent content in Works on AHSCODE - Agência Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.ahscode.com.br/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahsouza.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.ahscode.com.br/work/controle-de-gestao/</link>
+      <link>https://ahsouza.github.io/work/controle-de-gestao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ahscode.com.br/work/controle-de-gestao/</guid>
+      <guid>https://ahsouza.github.io/work/controle-de-gestao/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.ahscode.com.br/work/identificacao-visual/</link>
+      <link>https://ahsouza.github.io/work/identificacao-visual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ahscode.com.br/work/identificacao-visual/</guid>
+      <guid>https://ahsouza.github.io/work/identificacao-visual/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.ahscode.com.br/work/marketing-digital/</link>
+      <link>https://ahsouza.github.io/work/marketing-digital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ahscode.com.br/work/marketing-digital/</guid>
+      <guid>https://ahsouza.github.io/work/marketing-digital/</guid>
       <description>O marketing digital tem como objetivo principal melhorar a relação da sua empresa e de seus clientes através de ferramentas e métricas relevantes, que indicam o comportamento do público sobre determinada campanha de publicação. Dessa forma, além de poder conhecer melhor o cliente, também é possível traçar estratégias muito mais precisas para o público alvo.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.ahscode.com.br/work/suporte-tecnico/</link>
+      <link>https://ahsouza.github.io/work/suporte-tecnico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ahscode.com.br/work/suporte-tecnico/</guid>
+      <guid>https://ahsouza.github.io/work/suporte-tecnico/</guid>
       <description></description>
     </item>
     
