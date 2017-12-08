@@ -5,4 +5,4 @@
 
 #Hotsite desenvolvido por o Hugo e integrou serviços como o Google Analytics para coleta de métricas, JivoChat e Formspree para e-mail.
 
-![alt text](https://github.com/ahsouza.github.io/img/1.png)
+![alt text](https://github.com/ahsouza/ahsouza.github.io/blob/master/img/1.png)
