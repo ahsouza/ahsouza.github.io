@@ -1,9 +1,7 @@
 # ahsouza.github.io
-Hotsite AHS CODE
+> _[Acesse ao Site!](http://ahscode.com.br)_
 
-> _[AngularJS - angularjs.org](http://ahscode.com.br)_
+##HUGO Hotsite developed by Hugo and integrated services like Google Analytics for collection of metrics, JivoChat and Formspree for email.
+##Hotsite desenvolvido por o Hugo e integrou serviços como o Google Analytics para coleta de métricas, JivoChat e Formspree para e-mail.
 
-
-##HUGO Hotsite developed using Hugo and integrated with services such as Google Analytics for metrics collection and JivoChat.
-
-![alt text](https://github.com/ahsouza/angularjs_require/blob/master/1.png)
+![alt text](https://github.com/ahsouza/ahsouza.github.io/img/1.png)
