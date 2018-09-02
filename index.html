@@ -29,7 +29,7 @@
 			
 <!--  INSERTING SDK FACEBOOK -->
 <script>
-  window.fbAsyncInit = function() {
+  window.fbAsyncInit = () => {
     FB.init({
       appId      : '122506188438822',
       xfbml      : true,
@@ -38,7 +38,7 @@
     FB.AppEvents.logPageView();
   };
 
-  (function(d, s, id){
+  ((d, s, id) () => {
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
@@ -85,10 +85,10 @@
 </header>
 		<!-- About section -->
 <section>
-    <h3 id="about-me">Sobre nós</h3>
+    <h3 id="about-me">Sobre</h3>
 
     <div class="face-lockup">
-        <div class="face-img" alt="logomarca da agência digital ahs code"></div>
+        <div class="face-img" alt="identidade-visual-digital-autenticada-ahscode"></div>
         <div class="icon-pencil">
             <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 100 100"><path d="M68.495 32.622c.332-1.051-.787-2.17-1.838-1.838l-12.123 3.823-.009.003-.02.006-.04.018-.213.087-.046.031-.085.056-.189.148-.042.033-18.97 18.97-.001.001-.001.001-4.742 4.742c-.584.584-.592 1.522-.017 2.097l8.32 8.32c.575.575 1.513.567 2.097-.017l4.742-4.742 18.971-18.971.033-.042.148-.188.057-.085.03-.046.086-.212.019-.042.007-.021.003-.008 3.823-12.124zm-6.119 9.592l-3.496-1.815-1.815-3.496 7.756-2.446-2.445 7.757zm-18.081 19.01l-6.24-6.24 16.477-16.477 1.921 3.7c.07.134.158.253.262.357.105.105.224.193.357.262l3.7 1.921-16.477 16.477zm-4.742 4.742l-6.24-6.24 2.629-2.629 6.24 6.24-2.629 2.629z"/></svg>
         </div>
@@ -591,7 +591,3 @@
 	
 		
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<!-- MailChimp -->
-<!-- MailChimp <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7f7d8b41b91a64e6d33f42b4c/d9dd8b6360c01519d3b246711.js");</script>
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"7f7d8b41b91a64e6d33f42b4c","lid":"883ebb5172"}) })</script> -->
-<!-- MailChimp -->		
