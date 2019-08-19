@@ -1024,7 +1024,8 @@ footer {
 
 .clients-logos {
   position: relative;
-  max-width: 750px;
+  max-width: 150px;
+  max-height: 50px;
   margin: 0px auto 100px;
   display: -webkit-box;
   display: -moz-box;
