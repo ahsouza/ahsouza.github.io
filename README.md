@@ -1,6 +1,6 @@
-# AHS CODE 
+# AHS CODE - My Personal Site
 
-### Hotsite created using Hugo and integrated services like Google Analytics and others.
+### Hotsite created using Hugo and integrated services like Google Analytics and Facebook Chat.
 
 ![alt text](https://github.com/ahsouza/ahsouza.github.io/blob/master/img/1.png)
 
