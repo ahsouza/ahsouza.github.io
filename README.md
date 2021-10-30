@@ -1,4 +1,4 @@
-# AHS CODE - My Personal Site
+# My Personal Site
 
 ### Hotsite created using Hugo and integrated services like Google Analytics and Facebook Chat.
 
